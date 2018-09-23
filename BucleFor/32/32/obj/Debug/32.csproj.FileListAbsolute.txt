@@ -1,0 +1,7 @@
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\32\32\bin\Debug\32.exe.config
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\32\32\bin\Debug\32.exe
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\32\32\bin\Debug\32.pdb
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\32\32\obj\Debug\32.csprojResolveAssemblyReference.cache
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\32\32\obj\Debug\32.csproj.CoreCompileInputs.cache
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\32\32\obj\Debug\32.exe
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\32\32\obj\Debug\32.pdb

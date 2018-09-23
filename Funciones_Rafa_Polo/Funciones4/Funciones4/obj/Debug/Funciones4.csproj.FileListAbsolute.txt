@@ -1,0 +1,7 @@
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones4\Funciones4\obj\Debug\Funciones4.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones4\Funciones4\obj\Debug\Funciones4.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones4\Funciones4\bin\Debug\Funciones4.exe.config
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones4\Funciones4\bin\Debug\Funciones4.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones4\Funciones4\bin\Debug\Funciones4.pdb
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones4\Funciones4\obj\Debug\Funciones4.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones4\Funciones4\obj\Debug\Funciones4.pdb

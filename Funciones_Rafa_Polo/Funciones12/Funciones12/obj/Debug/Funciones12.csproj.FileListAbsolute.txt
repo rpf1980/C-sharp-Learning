@@ -1,0 +1,7 @@
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones12\Funciones12\bin\Debug\Funciones12.exe.config
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones12\Funciones12\bin\Debug\Funciones12.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones12\Funciones12\bin\Debug\Funciones12.pdb
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones12\Funciones12\obj\Debug\Funciones12.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones12\Funciones12\obj\Debug\Funciones12.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones12\Funciones12\obj\Debug\Funciones12.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones12\Funciones12\obj\Debug\Funciones12.pdb

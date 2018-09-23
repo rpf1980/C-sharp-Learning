@@ -1,0 +1,14 @@
+C:\Users\RPF\source\repos\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe.config
+C:\Users\RPF\source\repos\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe
+C:\Users\RPF\source\repos\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.pdb
+C:\Users\RPF\source\repos\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csprojResolveAssemblyReference.cache
+C:\Users\RPF\source\repos\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.exe
+C:\Users\RPF\source\repos\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.pdb
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe.config
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.exe
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\Ejercicio21\Ejercicio21\bin\Debug\Ejercicio21.pdb
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csprojResolveAssemblyReference.cache
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.csproj.CoreCompileInputs.cache
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.exe
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\Ejercicio21\Ejercicio21\obj\Debug\Ejercicio21.pdb

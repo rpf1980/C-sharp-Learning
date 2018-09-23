@@ -1,0 +1,14 @@
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\bin\Debug\35.exe.config
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\bin\Debug\35.exe
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\bin\Debug\35.pdb
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\obj\Debug\35.csprojResolveAssemblyReference.cache
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\obj\Debug\35.csproj.CoreCompileInputs.cache
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\obj\Debug\35.exe
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\obj\Debug\35.pdb
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\bin\Debug\35.exe.config
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\bin\Debug\35.exe
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\bin\Debug\35.pdb
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\obj\Debug\35.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\obj\Debug\35.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\obj\Debug\35.exe
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\35\35\obj\Debug\35.pdb

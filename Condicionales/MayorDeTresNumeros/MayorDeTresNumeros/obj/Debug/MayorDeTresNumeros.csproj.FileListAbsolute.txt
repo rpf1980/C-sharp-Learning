@@ -1,0 +1,7 @@
+C:\Users\RPF\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.exe.config
+C:\Users\RPF\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.exe
+C:\Users\RPF\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\bin\Debug\MayorDeTresNumeros.pdb
+C:\Users\RPF\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.csprojResolveAssemblyReference.cache
+C:\Users\RPF\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.exe
+C:\Users\RPF\source\repos\MayorDeTresNumeros\MayorDeTresNumeros\obj\Debug\MayorDeTresNumeros.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sebas\Desktop\Arrays_Multidimensionales\Arrays_Multidimensionales\bin\Debug\Arrays_Multidimensionales.exe.config
+C:\Users\Sebas\Desktop\Arrays_Multidimensionales\Arrays_Multidimensionales\bin\Debug\Arrays_Multidimensionales.exe
+C:\Users\Sebas\Desktop\Arrays_Multidimensionales\Arrays_Multidimensionales\bin\Debug\Arrays_Multidimensionales.pdb
+C:\Users\Sebas\Desktop\Arrays_Multidimensionales\Arrays_Multidimensionales\obj\Debug\Arrays_Multidimensionales.csprojResolveAssemblyReference.cache
+C:\Users\Sebas\Desktop\Arrays_Multidimensionales\Arrays_Multidimensionales\obj\Debug\Arrays_Multidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\Desktop\Arrays_Multidimensionales\Arrays_Multidimensionales\obj\Debug\Arrays_Multidimensionales.exe
+C:\Users\Sebas\Desktop\Arrays_Multidimensionales\Arrays_Multidimensionales\obj\Debug\Arrays_Multidimensionales.pdb

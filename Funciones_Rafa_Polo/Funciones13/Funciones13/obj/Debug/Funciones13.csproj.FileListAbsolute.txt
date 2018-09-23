@@ -1,0 +1,7 @@
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones13\Funciones13\bin\Debug\Funciones13.exe.config
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones13\Funciones13\bin\Debug\Funciones13.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones13\Funciones13\bin\Debug\Funciones13.pdb
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones13\Funciones13\obj\Debug\Funciones13.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones13\Funciones13\obj\Debug\Funciones13.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones13\Funciones13\obj\Debug\Funciones13.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones13\Funciones13\obj\Debug\Funciones13.pdb

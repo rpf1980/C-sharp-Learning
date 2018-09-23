@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu_Arrays_Multidimensionales", "Menu_Arrays_Multidimensionales\Menu_Arrays_Multidimensionales.csproj", "{A84BCB33-9BC7-4B9F-8733-06298B521410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84BCB33-9BC7-4B9F-8733-06298B521410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84BCB33-9BC7-4B9F-8733-06298B521410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84BCB33-9BC7-4B9F-8733-06298B521410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84BCB33-9BC7-4B9F-8733-06298B521410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0AEDE5E-8439-4998-8538-51F3D052B8AB}
+	EndGlobalSection
+EndGlobal

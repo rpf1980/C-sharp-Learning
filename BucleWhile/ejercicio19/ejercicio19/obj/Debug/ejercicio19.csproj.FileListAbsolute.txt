@@ -1,0 +1,14 @@
+C:\Users\RPF\source\repos\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe.config
+C:\Users\RPF\source\repos\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe
+C:\Users\RPF\source\repos\ejercicio19\ejercicio19\bin\Debug\ejercicio19.pdb
+C:\Users\RPF\source\repos\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csprojResolveAssemblyReference.cache
+C:\Users\RPF\source\repos\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\ejercicio19\ejercicio19\obj\Debug\ejercicio19.exe
+C:\Users\RPF\source\repos\ejercicio19\ejercicio19\obj\Debug\ejercicio19.pdb
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe.config
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\ejercicio19\ejercicio19\bin\Debug\ejercicio19.exe
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\ejercicio19\ejercicio19\bin\Debug\ejercicio19.pdb
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csprojResolveAssemblyReference.cache
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\ejercicio19\ejercicio19\obj\Debug\ejercicio19.csproj.CoreCompileInputs.cache
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\ejercicio19\ejercicio19\obj\Debug\ejercicio19.exe
+E:\Copia_para_SSD\1ºDAW\PROG\Ejercicios\BucleWhile\ejercicio19\ejercicio19\obj\Debug\ejercicio19.pdb

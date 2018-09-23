@@ -1,0 +1,6 @@
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones17\Funciones17\bin\Debug\Funciones17.exe.config
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones17\Funciones17\bin\Debug\Funciones17.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones17\Funciones17\bin\Debug\Funciones17.pdb
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones17\Funciones17\obj\Debug\Funciones17.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones17\Funciones17\obj\Debug\Funciones17.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones17\Funciones17\obj\Debug\Funciones17.pdb

@@ -1,0 +1,7 @@
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funcion20\Funcion20\bin\Debug\Funcion20.exe.config
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funcion20\Funcion20\bin\Debug\Funcion20.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funcion20\Funcion20\bin\Debug\Funcion20.pdb
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funcion20\Funcion20\obj\Debug\Funcion20.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funcion20\Funcion20\obj\Debug\Funcion20.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funcion20\Funcion20\obj\Debug\Funcion20.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funcion20\Funcion20\obj\Debug\Funcion20.pdb

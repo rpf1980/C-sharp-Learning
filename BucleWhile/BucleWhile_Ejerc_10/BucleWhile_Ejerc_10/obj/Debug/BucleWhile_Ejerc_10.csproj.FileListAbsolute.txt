@@ -1,0 +1,6 @@
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_10\BucleWhile_Ejerc_10\bin\Debug\BucleWhile_Ejerc_10.exe.config
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_10\BucleWhile_Ejerc_10\bin\Debug\BucleWhile_Ejerc_10.exe
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_10\BucleWhile_Ejerc_10\bin\Debug\BucleWhile_Ejerc_10.pdb
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_10\BucleWhile_Ejerc_10\obj\Debug\BucleWhile_Ejerc_10.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_10\BucleWhile_Ejerc_10\obj\Debug\BucleWhile_Ejerc_10.exe
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_10\BucleWhile_Ejerc_10\obj\Debug\BucleWhile_Ejerc_10.pdb

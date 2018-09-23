@@ -1,0 +1,7 @@
+E:\sabados_csharp\Funciones1\Funciones1\Funciones1\obj\Debug\Funciones1.csprojResolveAssemblyReference.cache
+E:\sabados_csharp\Funciones1\Funciones1\Funciones1\obj\Debug\Funciones1.csproj.CoreCompileInputs.cache
+E:\sabados_csharp\Funciones1\Funciones1\Funciones1\bin\Debug\Funciones1.exe.config
+E:\sabados_csharp\Funciones1\Funciones1\Funciones1\bin\Debug\Funciones1.exe
+E:\sabados_csharp\Funciones1\Funciones1\Funciones1\bin\Debug\Funciones1.pdb
+E:\sabados_csharp\Funciones1\Funciones1\Funciones1\obj\Debug\Funciones1.exe
+E:\sabados_csharp\Funciones1\Funciones1\Funciones1\obj\Debug\Funciones1.pdb

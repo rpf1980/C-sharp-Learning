@@ -1,0 +1,7 @@
+C:\Users\RPF\source\repos\ejercicio18\ejercicio18\bin\Debug\ejercicio18.exe.config
+C:\Users\RPF\source\repos\ejercicio18\ejercicio18\bin\Debug\ejercicio18.exe
+C:\Users\RPF\source\repos\ejercicio18\ejercicio18\bin\Debug\ejercicio18.pdb
+C:\Users\RPF\source\repos\ejercicio18\ejercicio18\obj\Debug\ejercicio18.csprojResolveAssemblyReference.cache
+C:\Users\RPF\source\repos\ejercicio18\ejercicio18\obj\Debug\ejercicio18.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\ejercicio18\ejercicio18\obj\Debug\ejercicio18.exe
+C:\Users\RPF\source\repos\ejercicio18\ejercicio18\obj\Debug\ejercicio18.pdb

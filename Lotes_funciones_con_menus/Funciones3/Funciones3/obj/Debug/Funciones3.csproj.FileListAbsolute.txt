@@ -1,0 +1,7 @@
+E:\sabados_csharp\Funciones3\Funciones3\bin\Debug\Funciones3.exe.config
+E:\sabados_csharp\Funciones3\Funciones3\bin\Debug\Funciones3.exe
+E:\sabados_csharp\Funciones3\Funciones3\bin\Debug\Funciones3.pdb
+E:\sabados_csharp\Funciones3\Funciones3\obj\Debug\Funciones3.csprojResolveAssemblyReference.cache
+E:\sabados_csharp\Funciones3\Funciones3\obj\Debug\Funciones3.csproj.CoreCompileInputs.cache
+E:\sabados_csharp\Funciones3\Funciones3\obj\Debug\Funciones3.exe
+E:\sabados_csharp\Funciones3\Funciones3\obj\Debug\Funciones3.pdb

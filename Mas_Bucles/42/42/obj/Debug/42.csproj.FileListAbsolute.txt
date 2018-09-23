@@ -1,0 +1,6 @@
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\42\42\bin\Debug\42.exe.config
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\42\42\bin\Debug\42.exe
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\42\42\bin\Debug\42.pdb
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\42\42\obj\Debug\42.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\42\42\obj\Debug\42.exe
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\42\42\obj\Debug\42.pdb

@@ -1,0 +1,7 @@
+C:\Users\RPF\source\repos\condicional_carnet_bebida\condicional_carnet_bebida\bin\Debug\condicional_carnet_bebida.exe.config
+C:\Users\RPF\source\repos\condicional_carnet_bebida\condicional_carnet_bebida\bin\Debug\condicional_carnet_bebida.exe
+C:\Users\RPF\source\repos\condicional_carnet_bebida\condicional_carnet_bebida\bin\Debug\condicional_carnet_bebida.pdb
+C:\Users\RPF\source\repos\condicional_carnet_bebida\condicional_carnet_bebida\obj\Debug\condicional_carnet_bebida.csprojResolveAssemblyReference.cache
+C:\Users\RPF\source\repos\condicional_carnet_bebida\condicional_carnet_bebida\obj\Debug\condicional_carnet_bebida.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\condicional_carnet_bebida\condicional_carnet_bebida\obj\Debug\condicional_carnet_bebida.exe
+C:\Users\RPF\source\repos\condicional_carnet_bebida\condicional_carnet_bebida\obj\Debug\condicional_carnet_bebida.pdb

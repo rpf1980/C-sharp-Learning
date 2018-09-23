@@ -1,0 +1,7 @@
+C:\Users\RPF\source\repos\Ejerc_2_sentenciasCondicionales\Ejerc_2_sentenciasCondicionales\obj\Debug\Ejerc_2_sentenciasCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\Ejerc_2_sentenciasCondicionales\Ejerc_2_sentenciasCondicionales\bin\Debug\Ejerc_2_sentenciasCondicionales.exe.config
+C:\Users\RPF\source\repos\Ejerc_2_sentenciasCondicionales\Ejerc_2_sentenciasCondicionales\bin\Debug\Ejerc_2_sentenciasCondicionales.exe
+C:\Users\RPF\source\repos\Ejerc_2_sentenciasCondicionales\Ejerc_2_sentenciasCondicionales\bin\Debug\Ejerc_2_sentenciasCondicionales.pdb
+C:\Users\RPF\source\repos\Ejerc_2_sentenciasCondicionales\Ejerc_2_sentenciasCondicionales\obj\Debug\Ejerc_2_sentenciasCondicionales.exe
+C:\Users\RPF\source\repos\Ejerc_2_sentenciasCondicionales\Ejerc_2_sentenciasCondicionales\obj\Debug\Ejerc_2_sentenciasCondicionales.pdb
+C:\Users\RPF\source\repos\Ejerc_2_sentenciasCondicionales\Ejerc_2_sentenciasCondicionales\obj\Debug\Ejerc_2_sentenciasCondicionales.csprojResolveAssemblyReference.cache

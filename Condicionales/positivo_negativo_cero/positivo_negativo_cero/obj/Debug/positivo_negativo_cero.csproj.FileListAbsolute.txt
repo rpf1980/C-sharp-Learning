@@ -1,0 +1,7 @@
+C:\Users\RPF\source\repos\positivo_negativo_cero\positivo_negativo_cero\bin\Debug\positivo_negativo_cero.exe.config
+C:\Users\RPF\source\repos\positivo_negativo_cero\positivo_negativo_cero\bin\Debug\positivo_negativo_cero.exe
+C:\Users\RPF\source\repos\positivo_negativo_cero\positivo_negativo_cero\bin\Debug\positivo_negativo_cero.pdb
+C:\Users\RPF\source\repos\positivo_negativo_cero\positivo_negativo_cero\obj\Debug\positivo_negativo_cero.csprojResolveAssemblyReference.cache
+C:\Users\RPF\source\repos\positivo_negativo_cero\positivo_negativo_cero\obj\Debug\positivo_negativo_cero.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\positivo_negativo_cero\positivo_negativo_cero\obj\Debug\positivo_negativo_cero.exe
+C:\Users\RPF\source\repos\positivo_negativo_cero\positivo_negativo_cero\obj\Debug\positivo_negativo_cero.pdb

@@ -1,0 +1,14 @@
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones16\Funciones16\bin\Debug\Funciones16.exe.config
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones16\Funciones16\bin\Debug\Funciones16.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones16\Funciones16\bin\Debug\Funciones16.pdb
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones16\Funciones16\obj\Debug\Funciones16.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones16\Funciones16\obj\Debug\Funciones16.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones16\Funciones16\obj\Debug\Funciones16.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote2_Ejercicios\Funciones\Funciones16\Funciones16\obj\Debug\Funciones16.pdb
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote2_Ejercicios\Funciones_Rafa_Polo\Funciones16\Funciones16\bin\Debug\Funciones16.exe.config
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote2_Ejercicios\Funciones_Rafa_Polo\Funciones16\Funciones16\bin\Debug\Funciones16.exe
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote2_Ejercicios\Funciones_Rafa_Polo\Funciones16\Funciones16\bin\Debug\Funciones16.pdb
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote2_Ejercicios\Funciones_Rafa_Polo\Funciones16\Funciones16\obj\Debug\Funciones16.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote2_Ejercicios\Funciones_Rafa_Polo\Funciones16\Funciones16\obj\Debug\Funciones16.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote2_Ejercicios\Funciones_Rafa_Polo\Funciones16\Funciones16\obj\Debug\Funciones16.exe
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote2_Ejercicios\Funciones_Rafa_Polo\Funciones16\Funciones16\obj\Debug\Funciones16.pdb

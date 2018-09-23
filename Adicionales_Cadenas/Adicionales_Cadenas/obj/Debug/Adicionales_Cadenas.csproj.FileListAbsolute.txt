@@ -1,0 +1,7 @@
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote4_Ejercicios_cadenas\Adicionales_Cadenas\Adicionales_Cadenas\bin\Debug\Adicionales_Cadenas.exe.config
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote4_Ejercicios_cadenas\Adicionales_Cadenas\Adicionales_Cadenas\bin\Debug\Adicionales_Cadenas.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote4_Ejercicios_cadenas\Adicionales_Cadenas\Adicionales_Cadenas\bin\Debug\Adicionales_Cadenas.pdb
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote4_Ejercicios_cadenas\Adicionales_Cadenas\Adicionales_Cadenas\obj\Debug\Adicionales_Cadenas.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote4_Ejercicios_cadenas\Adicionales_Cadenas\Adicionales_Cadenas\obj\Debug\Adicionales_Cadenas.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote4_Ejercicios_cadenas\Adicionales_Cadenas\Adicionales_Cadenas\obj\Debug\Adicionales_Cadenas.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote4_Ejercicios_cadenas\Adicionales_Cadenas\Adicionales_Cadenas\obj\Debug\Adicionales_Cadenas.pdb

@@ -1,0 +1,6 @@
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\24\24\bin\Debug\24.exe.config
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\24\24\bin\Debug\24.exe
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\24\24\bin\Debug\24.pdb
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\24\24\obj\Debug\24.csproj.CoreCompileInputs.cache
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\24\24\obj\Debug\24.exe
+C:\Users\RPF\Documents\1ºDAW\PROG\Ejercicios\BucleFor\24\24\obj\Debug\24.pdb

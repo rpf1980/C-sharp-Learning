@@ -1,0 +1,7 @@
+C:\Users\RPF\source\repos\Ejerc_7_sentenciasCondicionales\Ejerc_7_sentenciasCondicionales\bin\Debug\Ejerc_7_sentenciasCondicionales.exe.config
+C:\Users\RPF\source\repos\Ejerc_7_sentenciasCondicionales\Ejerc_7_sentenciasCondicionales\bin\Debug\Ejerc_7_sentenciasCondicionales.exe
+C:\Users\RPF\source\repos\Ejerc_7_sentenciasCondicionales\Ejerc_7_sentenciasCondicionales\bin\Debug\Ejerc_7_sentenciasCondicionales.pdb
+C:\Users\RPF\source\repos\Ejerc_7_sentenciasCondicionales\Ejerc_7_sentenciasCondicionales\obj\Debug\Ejerc_7_sentenciasCondicionales.csprojResolveAssemblyReference.cache
+C:\Users\RPF\source\repos\Ejerc_7_sentenciasCondicionales\Ejerc_7_sentenciasCondicionales\obj\Debug\Ejerc_7_sentenciasCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\Ejerc_7_sentenciasCondicionales\Ejerc_7_sentenciasCondicionales\obj\Debug\Ejerc_7_sentenciasCondicionales.exe
+C:\Users\RPF\source\repos\Ejerc_7_sentenciasCondicionales\Ejerc_7_sentenciasCondicionales\obj\Debug\Ejerc_7_sentenciasCondicionales.pdb

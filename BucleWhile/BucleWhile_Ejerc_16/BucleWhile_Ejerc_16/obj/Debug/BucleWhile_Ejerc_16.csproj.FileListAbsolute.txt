@@ -1,0 +1,7 @@
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_16\BucleWhile_Ejerc_16\bin\Debug\BucleWhile_Ejerc_16.exe.config
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_16\BucleWhile_Ejerc_16\bin\Debug\BucleWhile_Ejerc_16.exe
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_16\BucleWhile_Ejerc_16\bin\Debug\BucleWhile_Ejerc_16.pdb
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_16\BucleWhile_Ejerc_16\obj\Debug\BucleWhile_Ejerc_16.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_16\BucleWhile_Ejerc_16\obj\Debug\BucleWhile_Ejerc_16.exe
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_16\BucleWhile_Ejerc_16\obj\Debug\BucleWhile_Ejerc_16.pdb
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_16\BucleWhile_Ejerc_16\obj\Debug\BucleWhile_Ejerc_16.csprojResolveAssemblyReference.cache

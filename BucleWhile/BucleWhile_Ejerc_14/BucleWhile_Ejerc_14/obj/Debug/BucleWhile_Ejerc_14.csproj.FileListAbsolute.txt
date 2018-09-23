@@ -1,0 +1,14 @@
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\bin\Debug\BucleWhile_Ejerc_14.exe.config
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\bin\Debug\BucleWhile_Ejerc_14.exe
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\bin\Debug\BucleWhile_Ejerc_14.pdb
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\obj\Debug\BucleWhile_Ejerc_14.csprojResolveAssemblyReference.cache
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\obj\Debug\BucleWhile_Ejerc_14.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\obj\Debug\BucleWhile_Ejerc_14.exe
+C:\Users\RPF\source\repos\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\obj\Debug\BucleWhile_Ejerc_14.pdb
+D:\1ºDAW\PROG\Ejercicios\BucleWhile\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\bin\Debug\BucleWhile_Ejerc_14.exe.config
+D:\1ºDAW\PROG\Ejercicios\BucleWhile\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\bin\Debug\BucleWhile_Ejerc_14.exe
+D:\1ºDAW\PROG\Ejercicios\BucleWhile\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\bin\Debug\BucleWhile_Ejerc_14.pdb
+D:\1ºDAW\PROG\Ejercicios\BucleWhile\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\obj\Debug\BucleWhile_Ejerc_14.csprojResolveAssemblyReference.cache
+D:\1ºDAW\PROG\Ejercicios\BucleWhile\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\obj\Debug\BucleWhile_Ejerc_14.csproj.CoreCompileInputs.cache
+D:\1ºDAW\PROG\Ejercicios\BucleWhile\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\obj\Debug\BucleWhile_Ejerc_14.exe
+D:\1ºDAW\PROG\Ejercicios\BucleWhile\BucleWhile_Ejerc_14\BucleWhile_Ejerc_14\obj\Debug\BucleWhile_Ejerc_14.pdb

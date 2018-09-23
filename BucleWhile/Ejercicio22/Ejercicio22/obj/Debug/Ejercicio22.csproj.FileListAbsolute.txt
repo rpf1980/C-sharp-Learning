@@ -1,0 +1,6 @@
+C:\Users\RPF\source\repos\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe.config
+C:\Users\RPF\source\repos\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.exe
+C:\Users\RPF\source\repos\Ejercicio22\Ejercicio22\bin\Debug\Ejercicio22.pdb
+C:\Users\RPF\source\repos\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.csproj.CoreCompileInputs.cache
+C:\Users\RPF\source\repos\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.exe
+C:\Users\RPF\source\repos\Ejercicio22\Ejercicio22\obj\Debug\Ejercicio22.pdb

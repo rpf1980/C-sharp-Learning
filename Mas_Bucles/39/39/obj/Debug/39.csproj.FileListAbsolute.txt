@@ -1,0 +1,13 @@
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\bin\Debug\39.exe.config
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\bin\Debug\39.exe
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\bin\Debug\39.pdb
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\obj\Debug\39.csproj.CoreCompileInputs.cache
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\obj\Debug\39.exe
+D:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\obj\Debug\39.pdb
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\bin\Debug\39.exe.config
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\bin\Debug\39.exe
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\bin\Debug\39.pdb
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\obj\Debug\39.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\obj\Debug\39.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\obj\Debug\39.exe
+E:\1ºDAW\PROG\Ejercicios\Mas_Bucles\39\39\obj\Debug\39.pdb

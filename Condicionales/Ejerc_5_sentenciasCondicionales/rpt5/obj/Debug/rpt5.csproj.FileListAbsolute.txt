@@ -1,0 +1,7 @@
+F:\C#\Repetir_Ejercicios\rpt5\rpt5\bin\Debug\rpt5.exe.config
+F:\C#\Repetir_Ejercicios\rpt5\rpt5\bin\Debug\rpt5.exe
+F:\C#\Repetir_Ejercicios\rpt5\rpt5\bin\Debug\rpt5.pdb
+F:\C#\Repetir_Ejercicios\rpt5\rpt5\obj\Debug\rpt5.csprojResolveAssemblyReference.cache
+F:\C#\Repetir_Ejercicios\rpt5\rpt5\obj\Debug\rpt5.csproj.CoreCompileInputs.cache
+F:\C#\Repetir_Ejercicios\rpt5\rpt5\obj\Debug\rpt5.exe
+F:\C#\Repetir_Ejercicios\rpt5\rpt5\obj\Debug\rpt5.pdb

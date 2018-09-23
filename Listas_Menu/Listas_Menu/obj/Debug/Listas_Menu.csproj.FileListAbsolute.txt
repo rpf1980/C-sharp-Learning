@@ -1,0 +1,14 @@
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\bin\Debug\Listas_Menu.exe.config
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\bin\Debug\Listas_Menu.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\bin\Debug\Listas_Menu.pdb
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\obj\Debug\Listas_Menu.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\obj\Debug\Listas_Menu.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\obj\Debug\Listas_Menu.exe
+E:\1ºDAW\PROG\Ejercicios\Pendientes\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\obj\Debug\Listas_Menu.pdb
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\bin\Debug\Listas_Menu.exe.config
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\bin\Debug\Listas_Menu.exe
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\bin\Debug\Listas_Menu.pdb
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\obj\Debug\Listas_Menu.csprojResolveAssemblyReference.cache
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\obj\Debug\Listas_Menu.csproj.CoreCompileInputs.cache
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\obj\Debug\Listas_Menu.exe
+E:\1ºDAW\PROG\Ejercicios\Entregados\Lote5_Ejercicios_listas\Listas_Menu\Listas_Menu\obj\Debug\Listas_Menu.pdb
