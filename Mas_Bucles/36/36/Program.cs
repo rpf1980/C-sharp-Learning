@@ -15,15 +15,18 @@ namespace _36  /*Escribe un programa que nos escriba los 10 primeros números qu
             int i, contador;
             contador = 0;
 
-            i = 1;
+            i = 0;
             while(i < 100)
             {
                if(i %2 != 0 && i %3 != 0)
                 {
-                    Console.WriteLine(i);
-                    contador = contador + 1;
+                    contador++;
+                    if(contador <= 10)
+                    {
+                        Console.WriteLine(i);
+                    }
                 }
-                i = i + 1;
+                i++;
             }
             Console.ReadKey();
             
