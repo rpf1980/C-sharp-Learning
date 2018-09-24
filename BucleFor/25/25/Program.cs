@@ -11,11 +11,18 @@ namespace _25 // Muestre los 10 primeros nº pares
         static void Main(string[] args)
         {
             int i;
-            i = 0;
+            int contador = 0;
 
-            for(i = 2; i <=20; i = i + 2)
+            for(i = 1; i < 100; i ++)
             {
-                Console.WriteLine(i);
+                if(i %2 == 0)
+                {
+                    contador++;
+                    if(contador <= 10)
+                    {
+                        Console.WriteLine(i);
+                    }
+                }
             }
             Console.ReadKey();
         }
